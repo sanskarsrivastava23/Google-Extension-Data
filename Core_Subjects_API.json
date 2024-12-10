@@ -1,6 +1,4 @@
 {
-    "status": "success",
-    "data": {
     "Operating Systems": [
     {"question": "What is an operating system?", "answer": "System software managing hardware and software resources."},
     {"question": "Name the main functions of an operating system.", "answer": "Process management, memory management, file system, I/O management."},
@@ -234,4 +232,4 @@
     {"question": "What is an adapter pattern?", "answer": "A design pattern that bridges two incompatible interfaces."},
     {"question": "What is a factory method?", "answer": "A method to create objects without specifying the class type."}
 ]
-}}
+}
